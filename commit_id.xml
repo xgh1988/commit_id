@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<manifest>333
+<manifest>
   <remote fetch="../../newland/" name="newland"/>
   <remote fetch="ssh://gitolite@192.168.30.63/pie_rk" name="pie"/>
   
